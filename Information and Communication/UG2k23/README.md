@@ -3,3 +3,5 @@
 - Mid Sem
 - Quiz 2
 - End Sem
+
+Credits - https://github.com/wig-nesh/iiith-ug2023-resources
